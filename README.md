@@ -1,0 +1,1 @@
+Projeto CRUD com foco na utilização de triggers e procedures com laravel.
